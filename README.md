@@ -1,5 +1,3 @@
 # dsml_streamlit_app
  
-Demonstation of ow to comple
-
-ssacds dsvvdsv
+I want to keep only A 
