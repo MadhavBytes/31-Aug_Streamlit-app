@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 import datetime
-import sklearn
+import sklearn as sk
 
 
 import pickle
@@ -16,8 +16,6 @@ st.write("""
 fdsvdvd
 
 dfdvdsvvv
-
-
 
 encode_dict = {
     "fuel_type": {"Diesel": 1, "Petrol": 2, "CNG": 3, "LPG": 4, "Electric": 5},
