@@ -1,3 +1,4 @@
 # dsml_streamlit_app
  
-I created a B branch
+
+I want to keep only A 
