@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 import datetime
-import sklearn
+import sklearn as sk
 
 
 import pickle
@@ -13,8 +13,6 @@ st.write("""
 """)
 
 # dfdsvdsvdsv
-
-
 
 
 encode_dict = {
