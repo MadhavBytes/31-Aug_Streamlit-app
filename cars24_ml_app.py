@@ -13,7 +13,9 @@ st.write("""
 """)
 
 # dfdsvdsvdsv
+fdsvdvd
 
+dfdvdsvvv
 
 encode_dict = {
     "fuel_type": {"Diesel": 1, "Petrol": 2, "CNG": 3, "LPG": 4, "Electric": 5},
